@@ -1,9 +1,4 @@
-# 문제
-
-![pro1](./image/prob1.png)
-![pro2](./image/prob2.png)
-
-# 회고
+# 운동_중독_플레이어
 
 ## 소수점 버리기
 
