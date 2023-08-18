@@ -1,3 +1,4 @@
+package 완벽한_햄버거_만들기;
 import java.io.*;
 import java.util.Scanner;
 

@@ -1,3 +1,4 @@
+package 운동_중독_플레이어;
 import java.io.*;
 
 class Main {
