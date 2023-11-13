@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+ * Queue 자료구조를 사용하면 쉽게 풀 수 있는 문제인데
+ * queue 자료구조를 떠올리지 못했다
+ */
 public class Prob0506 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
